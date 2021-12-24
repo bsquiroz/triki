@@ -1,0 +1,6 @@
+.boardStyle {
+    margin-top: 1em;
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    gap: 0.5em;
+}

@@ -1,0 +1,13 @@
+.boxStyle {
+    border: 1px solid;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: opacity 0.1s;
+}
+
+.boxStyle:hover {
+    opacity: 0.5;
+}
