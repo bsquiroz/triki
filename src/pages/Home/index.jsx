@@ -7,6 +7,9 @@ export const Home = () => {
         <div className="containerHome">
             <h3>Este es mi triki</h3>
             <Board />
+            <a href="https://github.com/bsquiroz/triki" target="_blank">
+                Source code
+            </a>
         </div>
     );
 };
